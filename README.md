@@ -29,7 +29,7 @@
 - 👯 Interesse em segurança da informação, engenharia de software e estrutura de dados :wink:
 - 🥅 2020 Goals: Me tornar Monitor Tech na Resilia Educação.
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar :smile:
-- 📬 Como entrar em contato: [Pode me chamar!][linkedin]
+- 📬 Como entrar em contato: [Pode me chamar!](https://www.linkedin.com/in/dev-heliofranco/)
 - 🧗 Estudando sobre: Typescript, graphQL e C#
 - ⚡ Aberto a propostas de emprego! :raised_hands:
 
